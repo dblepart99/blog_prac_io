@@ -8,7 +8,7 @@ tags: 백준 알고리즘 백준-10807
 
 [백준 10807 개수 세기](https://www.acmicpc.net/problem/10807)
 
-```
+```c
 #include <bits/stdc++.h>
 using namespace std;
 
