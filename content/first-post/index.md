@@ -1,11 +1,18 @@
 ---
+emoji: 🧢
+title: 쉽고 빠르게 나만의 개츠비(Gatsby) 블로그 만들기
+date: '2021-03-22 23:00:00'
+author: 줌코딩
+tags: blog gatsby theme 개츠비 테마
+categories: 블로그 featured
+---
+
 emoji: ''
 title: Ubuntu 20.04 fcitx 한글 입력 설정
 date: '2021-07-29 16:14:36'
 author: Hyunsoo
 tags: ubuntu 우분투 한글 설정 fcitx
 categories: Ubuntu
----
 
 ## 1. fcitx 설치
 
