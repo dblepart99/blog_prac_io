@@ -1,1 +1,1 @@
-{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Ubuntu 20.04 fcitx 한글 입력 설정","categories":"Ubuntu"},"fields":{"slug":"/first-post/"}}}]}}}
+{"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"title":"Ubuntu 20.04 fcitx 한글 입력 설정","categories":"Ubuntu"},"fields":{"slug":"/first-post/"}}},{"node":{"frontmatter":{"title":"백준-1475","categories":"알고리즘"},"fields":{"slug":"/boj1475/"}}}]}}}

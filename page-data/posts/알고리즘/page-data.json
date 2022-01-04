@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/알고리즘",
+    "result": {"pageContext":{"currentCategory":"알고리즘","categories":["All","Ubuntu","알고리즘"],"edges":[{"node":{"id":"27cfe591-8847-55d7-b2b6-fc3d43222745","excerpt":"백준 1475 방 번호 문제에 의하면 6과 9는 뒤집어서 이용할 수 있습니다. 그래서 모든 6과 9의 갯수를 더한 후, 2로 나누어 세트의 개수를 구할 수 있습니다. ex) 6669 => 6을 2장, 9를 2장으로 만들 수 있음.\n6과 9의 갯수를 더한 후, 2로 나누어줍니다. 만약 나머지가 있다면 한 세트를 더 뜯어야 한다는 뜻이므로 1을 더해줍니다. 주의 사항 0번 부터 9번까지의 숫자들이므로, 0 한 장만 입력받는 경우도 고려를 해야합니다. 백준 1475 방 번호","fields":{"slug":"/boj1475/"},"frontmatter":{"categories":"알고리즘","title":"백준-1475","date":"July 21, 2021"}},"next":null,"previous":{"fields":{"slug":"/first-post/"}}}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
