@@ -3,10 +3,7 @@ emoji: ''
 title: 백준 10807
 date: '2021-07-18 01:40:24'
 categories: 알고리즘
-tags:
-  - 백준
-  - 알고리즘
-  - '백준 10807'
+tags: 백준 알고리즘 백준-10807
 ---
 
 [백준 10807 개수 세기](https://www.acmicpc.net/problem/10807)
