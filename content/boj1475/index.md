@@ -8,7 +8,7 @@ tags: 백준 알고리즘 백준 1475
 
 [백준 1475 방 번호](https://www.acmicpc.net/problem/1475)
 
-```c++
+```
 #include <bits/stdc++.h>
 using namespace std;
 
