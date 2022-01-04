@@ -1,10 +1,10 @@
----
+<!-- ---
 emoji: ''
 title: 백준 10807
 date: '2021-07-18 01:40:24'
-categories: 알고리즘
 author: Hyunsoo
-tags: 백준 알고리즘 백준-10807
+tags: 백준 알고리즘 10807
+categories: 알고리즘
 ---
 
 [백준 10807 개수 세기](https://www.acmicpc.net/problem/10807)
@@ -35,4 +35,4 @@ fill함수를 이용하여 배열 전체를 0으로 초기화해줍니다. 0은 
 
 ```toc
 
-```
+``` -->
