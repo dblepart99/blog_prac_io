@@ -3,6 +3,7 @@ emoji: ''
 title: 정렬
 date: '2021-09-01 16:37:47'
 categories: 알고리즘
+author: Hyunsoo
 tags: 알고리즘 정렬 선택정렬
 ---
 

@@ -3,6 +3,7 @@ emoji: ''
 title: 백준 10807
 date: '2021-07-18 01:40:24'
 categories: 알고리즘
+author: Hyunsoo
 tags: 백준 알고리즘 백준-10807
 ---
 
