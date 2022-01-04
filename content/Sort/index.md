@@ -76,6 +76,6 @@ insertionsort(arr)
 
     [3, 5, 7, 10, 20]
 
-```python
+```toc
 
 ```

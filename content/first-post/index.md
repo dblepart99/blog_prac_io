@@ -37,3 +37,7 @@ $ sudo reboot
 - 한/영 키 변경
   - 상단의 global config 탭 클릭 -> Trigger Input method -> shif+space버튼 누르기
   - 개인 취향에 맞춰 설정하시면 됩니다.
+
+```toc
+
+```
