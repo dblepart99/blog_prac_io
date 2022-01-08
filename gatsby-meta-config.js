@@ -1,6 +1,6 @@
 module.exports = {
   title: `삽질이 곧 경험치`,
-  description: `냄뚜의 삽질일기`,
+  description: `삽질이 곧 경험치`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://www.dblepart99.github.io`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
@@ -9,7 +9,7 @@ module.exports = {
       repo: `dblepart99/dblepart99.github.io`, // `dblepart99/dblepart99.github.io`,
     },
   },
-  ga: '0', // Google Analytics Tracking ID
+  ga: 'G-QM4M39F63E', // Google Analytics Tracking ID
   author: {
     name: `김현수`,
     bio: {
