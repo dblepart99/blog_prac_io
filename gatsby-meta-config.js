@@ -1,8 +1,9 @@
 module.exports = {
+  siteUrl: `https://www.dblepart99.github.io`,
   title: `삽질이 곧 경험치`,
   description: `삽질이 곧 경험치`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://www.dblepart99.github.io`,
+
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
