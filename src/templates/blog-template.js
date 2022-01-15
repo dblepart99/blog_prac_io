@@ -52,11 +52,12 @@ export const pageQuery = graphql`
       html
       excerpt(pruneLength: 500, truncate: true)
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "MMMM DD HH:MM, YYYY")
         title
         categories
         author
         emoji
+        tags
       }
       fields {
         slug
@@ -67,7 +68,7 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "MMMM DD HH:MM, YYYY")
         title
         categories
         author
@@ -82,7 +83,7 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "MMMM DD HH:MM, YYYY")
         title
         categories
         author

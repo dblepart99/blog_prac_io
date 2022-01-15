@@ -24,6 +24,12 @@ function PostHeader({ post, viewCount }) {
         {post.date}
         {viewCount && ` · ${viewCount} views`}
       </div>
+      <div className="tags">
+        <div className="tagTitle">
+          <strong>tags</strong>
+        </div>{' '}
+        {post.tags}
+      </div>
     </header>
   );
 }
