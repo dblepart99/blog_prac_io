@@ -1,6 +1,6 @@
 ---
 emoji: ''
-title: 정렬
+title: Material UI를 활용한 NavBar 만들기
 date: '2022-01-19 06:37:47'
 categories: 프로젝트
 author: Hyunsoo
@@ -17,7 +17,7 @@ tags: mui material-ui material-icon navbar
 npm install @mui/material @emotion/react @emotion/styled
 ```
 
-## material-ui 적용 방법
+## material-ui로 NavBar 만들기 예제
 
 ```javascript
 import React from 'react';
@@ -54,6 +54,10 @@ function Navbar(props) {
 
 export default Navbar;
 ```
+
+## 결과물
+
+![navbarExample.gif](navbarExample.gif)
 
 ```toc
 
